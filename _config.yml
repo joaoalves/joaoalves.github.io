@@ -1,115 +1,112 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# =============================================================
+# João Alves — Personal Academic Website
+# Minimal Mistakes Jekyll Theme
+# =============================================================
+
+theme                  : "minimal-mistakes-jekyll"
+minimal_mistakes_skin  : "contrast"   # cleanest black/white skin
+                                      # alternatives: "default", "air"
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+locale        : "en-GB"
+title         : "João Alves"
+title_separator: "·"
+subtitle      : "Professor of Astrophysics"
+name          : "João Alves"
+description   : "Professor of Astrophysics at the University of Vienna. Research group working on the interstellar medium, star formation, and large-scale Milky Way structure."
+url           : "https://joaoalves.github.io"   # ← change to your actual GitHub username
+baseurl       : ""
+repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# SEO
+twitter:
+  username    : ""   # add if you use Twitter/X
+og_image      : "/assets/images/profile.jpg"
+
+# Site author — this populates the left sidebar on every page
+author:
+  name        : "João Alves"
+  avatar      : "/assets/images/profile.jpg"   # your photo goes here
+  bio         : "Professor of Astrophysics, University of Vienna. ISM · Star formation · Galactic structure."
+  location    : "Vienna, Austria"
+  email       : "joao.alves@univie.ac.at"      # ← update
+  links:
+    - label   : "ADS"
+      icon    : "fas fa-fw fa-star"
+      url     : "https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C+Jo%C3%A3o%22"
+    - label   : "ORCID"
+      icon    : "fab fa-fw fa-orcid"
+      url     : "https://orcid.org/0000-0002-2110-9753"  # ← verify
+    - label   : "GitHub"
+      icon    : "fab fa-fw fa-github"
+      url     : "https://github.com/joaoalves"            # ← update
+    - label   : "University page"
+      icon    : "fas fa-fw fa-university"
+      url     : "https://sternwarte.univie.ac.at"
+
+# Footer links (keep minimal)
+footer:
+  links:
+    - label   : "ADS"
+      icon    : "fas fa-fw fa-star"
+      url     : "https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C+Jo%C3%A3o%22"
+    - label   : "GitHub"
+      icon    : "fab fa-fw fa-github"
+      url     : "https://github.com/joaoalves"
+
+# Reading / build settings
+encoding      : "utf-8"
+markdown      : kramdown
+highlighter   : rouge
+lsi           : false
+excerpt_separator: "\n\n"
+
+kramdown:
+  input         : GFM
+  hard_wrap     : false
+  auto_ids      : true
+  footnote_nr   : 1
+  entity_output : as_char
+  toc_levels    : 1..6
+  smart_quotes  : lsquo,rsquo,ldquo,rdquo
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink   : /:categories/:title/
+timezone    : Europe/Vienna
 
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# Collections — used for the group page
+collections:
+  group:
+    output    : false   # no individual pages per member, just a list
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+# Front matter defaults — avoids repeating layout: in every file
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout        : single
+      author_profile: true   # show the left sidebar on all pages
+      read_time     : false
+      comments      : false
+      share         : false
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout        : single
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Navigation — defined in _data/navigation.yml (see that file)
