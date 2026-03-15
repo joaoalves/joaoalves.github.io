@@ -15,7 +15,7 @@ Editor of the The Star Formation Newsletter
 
 Radcliffe Fellow (surf the Radcliffe wave)
 
-Editor-in-Chief of Astronomy & Astrophysics Letters. 
+Editor-in-Chief of Astronomy & Astrophysics Letters
 
 ERC Advanced Grant *ISM-FLOW*
 
