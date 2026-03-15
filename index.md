@@ -7,7 +7,7 @@ permalink: /
 
 Professor of Astrophysics at the Department of Astrophysics, University of Vienna. 
 
-Member of the Austrian Academy of Sciences.
+Member of the Austrian Academy of Sciences
 
 Former Dean of the Faculty
 
