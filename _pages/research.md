@@ -19,7 +19,7 @@ From filamentary accretion flows to the formation of stellar clusters, we study 
 
 ## 3D dust mapping & the ISM
 
-We develop probabilistic methods to reconstruct the three-dimensional distribution of interstellar dust in the solar neighborhood, using stellar photometry and Gaia parallaxes. These maps anchor our understanding of cloud geometry, kinematics, and cloud–cloud interactions.
+We develop probabilistic methods to reconstruct the three-dimensional distribution of interstellar dust in the solar neighborhood, using stellar photometry and Gaia parallaxes. These maps anchor our understanding of cloud geometry, kinematics, and cloud-cloud interactions.
 
 ## Young stellar populations & cluster dynamics
 
@@ -27,6 +27,6 @@ We trace the young (< 100 Myr) stellar population of the Milky Way — OB associ
 
 ---
 
-## Affiliations & infrastructure
+## Telescopes & data
 
-The group is embedded in the [Vienna node of the A* consortium](https://www.astarproject.eu) and contributes to SDSS-V, Rubin/LSST, and ESO ELT preparatory science. Observational data come primarily from ESO facilities, IRAM, and space missions including Gaia and JWST.
+The main observational data we use come primarily from ESO facilities in the Atacama desert, ESA space missions, in particular Gaia and JWST. The group is connected to the Vienna node of the A* consortium and uses A* Vienna's ScopeSIM for the ESO ELT preparatory science. 

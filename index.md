@@ -11,7 +11,7 @@ Former Dean of the Faculty
 Editor-in-Chief of Astronomy & Astrophysics Letters  
 Editor of the The Star Formation Newsletter  
 Radcliffe Fellow (surf the Radcliffe wave)  
-ERC Advanced Grant *ISM-F˝LOW*  
+ERC Advanced Grant *ISM-FLOW*  
 
 
 <p>
