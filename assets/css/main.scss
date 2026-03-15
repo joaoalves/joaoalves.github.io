@@ -1,12 +1,37 @@
 ---
-# Only the main Sass file needs front matter (dashes are enough)
 search: false
 ---
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/contrast"; /* skin  ← must come first */
-@import "minimal-mistakes";               /* theme */
+@import "minimal-mistakes/skins/contrast";
+@import "minimal-mistakes";
 
-/* Custom overrides — keep at the bottom so they win */
-@import "../../assets/css/custom";
+/* Group page photo grid */
+.group-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+.group-member { text-align: center; }
+.group-member img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  display: block;
+}
+.group-member .name { font-size: 0.8rem; font-weight: 600; margin: 0.4rem 0 0; }
+.group-member .role { font-size: 0.72rem; color: #888; margin: 0; }
+
+/* Sidebar author photo — square-ish */
+.author__avatar img {
+  border-radius: 4px !important;
+  max-width: 140px;
+}
+
+/* Button spacing */
+.btn--inverse { margin-right: 0.5rem; margin-bottom: 0.5rem; }

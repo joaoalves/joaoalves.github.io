@@ -18,6 +18,7 @@ url           : "https://joaoalves.github.io"   # ← change to your actual GitH
 baseurl       : ""
 repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
 
+
 # SEO
 twitter:
   username    : ""   # add if you use Twitter/X
@@ -42,7 +43,7 @@ author:
       url     : "https://github.com/joaoalves"            # ← update
     - label   : "University page"
       icon    : "fas fa-fw fa-university"
-      url     : "https://univie.ac.at"
+      url     : "https://univie.ac.at/en"
 
 # Footer links (keep minimal)
 footer:
@@ -56,6 +57,8 @@ footer:
 
 # Reading / build settings
 encoding      : "utf-8"
+include:
+  - _pages
 markdown      : kramdown
 highlighter   : rouge
 lsi           : false
