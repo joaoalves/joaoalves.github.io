@@ -5,11 +5,9 @@ author_profile: true
 permalink: /
 ---
 
-Professor of Astrophysics at the [Department of Astrophysics](https://sternwarte.univie.ac.at), University of Vienna. Editor-in-Chief of *Astronomy & Astrophysics Letters*. ERC Advanced Grant.
+Professor of Astrophysics at the [Department of Astrophysics](https://astro.univie.ac.at), University of Vienna. Editor-in-Chief of *Astronomy & Astrophysics Letters*. ERC Advanced Grant.
 
-I study the interstellar medium, star formation, and the local Milky Way. My group combines Large NIR ESO surveys, ESA Gaia, ESA Herschel, radio observations, and Gaia 3D dust mapping to understand how our interstellar gas organizes itself into the structures that eventually form stars and planetary systems.
-
-One of our most recognized results is the discovery of the [Radcliffe Wave](/research/) — a 2.7 kpc sinusoidal oscillation of star-forming gas in the solar neighborhood, the largest known coherent gaseous structure in the Milky Way.
+I study the interstellar medium, star formation, and the local Milky Way. My group combines Large NIR ESO surveys, ESA Gaia, ESA Herschel, radio observations, and Gaia 3D dust mapping to understand how our interstellar gas organizes itself into the structures that eventually become stars, planets, and life.
 
 <p>
   <a href="/research/" class="btn btn--inverse">View research →</a>
