@@ -22,12 +22,12 @@ repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
 # SEO
 twitter:
   username    : ""   # add if you use Twitter/X
-og_image      : "/assets/images/profile.jpg"
+og_image      : "/assets/images/profile.png"
 
 # Site author — this populates the left sidebar on every page
 author:
   name        : "João Alves"
-  avatar      : "/assets/images/profile.jpg"   # your photo goes here
+  avatar      : "/assets/images/profile.png"   # your photo goes here
   bio         : "Professor of Astrophysics, University of Vienna."
   # location    : "Vienna, Austria"
   email       : "joao.alves@univie.ac.at"      # ← update
