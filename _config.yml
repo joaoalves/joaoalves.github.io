@@ -9,20 +9,20 @@ minimal_mistakes_skin  : "contrast"   # cleanest black/white skin
 
 # Site settings
 locale        : "en-US"
-title         : "João Alves"
+title         : "AlvesLab"
 title_separator: "·"
-subtitle      : "Professor of Astrophysics"
+# subtitle      : "Professor of Astrophysics"
 name          : "João Alves"
 description   : "Professor of Astrophysics at the University of Vienna."
-url           : "https://joaoalves.github.io"   # ← change to your actual GitHub username
+url           : "https://joaoalves.github.io"   # 
 baseurl       : ""
-repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
+repository    : "joaoalves/joaoalves.github.io" # 
 
 
 # SEO
 twitter:
-  username    : ""   # add if you use Twitter/X
-og_image      : "/assets/images/profile.png"
+  # username    : ""   # add if you use Twitter/X
+# og_image      : "/assets/images/profile.png"
 
 # Site author — this populates the left sidebar on every page
 author:
