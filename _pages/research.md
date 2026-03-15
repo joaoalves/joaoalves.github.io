@@ -5,7 +5,7 @@ author_profile: true
 permalink: /research/
 ---
 
-*We work on how the Milky Way builds itself — from turbulent gas to stars.*
+*How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets?* To address this question, we combine Large NIR ESO surveys, ESA Gaia, Herschel and Planck, with radio observations.
 
 ---
 
