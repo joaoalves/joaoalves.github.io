@@ -9,23 +9,21 @@ permalink: /research/
 
 ---
 
-## The Radcliffe Wave & galactic-scale structure
+## The Radcliffe Wave and other superclouds
 
-The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known gaseous structure in the Milky Way ([Alves et al. 2020, *Nature*](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional extent, kinematics, and relationship to the Galactic disk using Gaia, radio surveys, and 3D dust reconstruction.
+The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known gaseous structure in the Milky Way ([Alves et al. 2020, *Nature*](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional extent, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust reconstruction.
 
 ## Star formation in molecular clouds
 
-From filamentary accretion flows to the formation of stellar clusters, we study how molecular clouds convert gas into stars across a range of environments. Current work focuses on Ophiuchus, Perseus, and Orion using ALMA, IRAM, and JWST data.
-
-## 3D dust mapping & the ISM
-
-We develop probabilistic methods to reconstruct the three-dimensional distribution of interstellar dust in the solar neighborhood, using stellar photometry and Gaia parallaxes. These maps anchor our understanding of cloud geometry, kinematics, and cloud-cloud interactions.
+From filamentary cloud formation to the formation of stellar clusters, we study how molecular clouds convert gas into stars and planets across a range of environments. Current work focuses on the 3D motion of Ophiuchus, Taurus-Perseus, and Orion using Gaia, IRAM, and JWST data.
 
 ## Young stellar populations & cluster dynamics
 
 We trace the young (< 100 Myr) stellar population of the Milky Way — OB associations, open clusters, and moving groups — to understand how star formation histories couple to large-scale gas dynamics. Sco-Cen serves as our primary laboratory for this work.
 
----
+## The impact of the Milky Way on planet Earth
+
+The Milky Way is not a passive backdrop to the formation and evolution of our Solar System. We are investigating how the Sun's motion through the Galaxy, and its passage through dense interstellar clouds, has influenced the history of our planet and life on Earth.
 
 ## Telescopes & data
 
