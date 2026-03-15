@@ -3,7 +3,7 @@
 # Minimal Mistakes Jekyll Theme
 # =============================================================
 
-theme                  : "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin  : "contrast"   # cleanest black/white skin
                                       # alternatives: "default", "air"
 
