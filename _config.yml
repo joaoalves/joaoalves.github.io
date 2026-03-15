@@ -13,7 +13,7 @@ title         : "João Alves"
 title_separator: "·"
 subtitle      : "Professor of Astrophysics"
 name          : "João Alves"
-description   : "Professor of Astrophysics at the University of Vienna. Research group working on the interstellar medium, star formation, and the Milky Way."
+description   : "Professor of Astrophysics at the University of Vienna."
 url           : "https://joaoalves.github.io"   # ← change to your actual GitHub username
 baseurl       : ""
 repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
@@ -28,8 +28,8 @@ og_image      : "/assets/images/profile.jpg"
 author:
   name        : "João Alves"
   avatar      : "/assets/images/profile.jpg"   # your photo goes here
-  bio         : "Professor of Astrophysics, University of Vienna. ISM · Star formation · Local Milky Way."
-  location    : "Vienna, Austria"
+  bio         : "Professor of Astrophysics, University of Vienna."
+  # location    : "Vienna, Austria"
   email       : "joao.alves@univie.ac.at"      # ← update
   links:
     - label   : "ADS"
@@ -38,12 +38,12 @@ author:
     - label   : "ORCID"
       icon    : "fab fa-fw fa-orcid"
       url     : "https://orcid.org/0000-0002-4355-0921"  # ← verify
-    - label   : "GitHub"
-      icon    : "fab fa-fw fa-github"
-      url     : "https://github.com/joaoalves"            # ← update
-    - label   : "University page"
-      icon    : "fas fa-fw fa-university"
-      url     : "https://univie.ac.at/en"
+    # - label   : "GitHub"
+    #   icon    : "fab fa-fw fa-github"
+    #   url     : "https://github.com/joaoalves"            # ← update
+    # - label   : "University page"
+    #   icon    : "fas fa-fw fa-university"
+    #   url     : "https://univie.ac.at/en"
 
 # Footer links (keep minimal)
 footer:
