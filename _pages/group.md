@@ -5,9 +5,7 @@ author_profile: true
 permalink: /group/
 ---
 
-Our group at the Department of Astrophysics in Vienna combines observers, theorists, and data scientists at all career stages. We collaborate closely with teams at ESO, Harvard CfA, and across the SDSS-V and Rubin/LSST consortia.
-
-We are always interested in hearing from motivated students and postdocs. See the [contact page](mailto:joao.alves@univie.ac.at) for inquiries.
+Our group at the Department of Astrophysics in Vienna combines observers, theorists, and data scientists at all career stages. We are always interested in hearing from motivated students and postdocs. See the [contact page](mailto:joao.alves@univie.ac.at) for inquiries.
 
 ---
 
@@ -22,6 +20,13 @@ We are always interested in hearing from motivated students and postdocs. See th
     <p class="role">Professor</p>
   </div>
 
+  <div class="group-member">
+    <img src="/assets/images/group/stefan-meingast.jpg" alt="Stefan Meingast"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Stefan Meingast</p>
+    <p class="role">Senior Scientist</p>
+  </div>
+
   <!-- Add more senior staff here following the same pattern -->
 
 </div>
@@ -33,8 +38,24 @@ We are always interested in hearing from motivated students and postdocs. See th
 <div class="group-grid">
 
   <div class="group-member">
-    <img src="/assets/images/group/placeholder.png" alt="Postdoc">
-    <p class="name">Name</p>
+    <img src="/assets/images/group/martin-piecka.jpg" alt="Martin Piecka"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Martin Piecka</p>
+    <p class="role">Postdoctoral researcher</p>
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/sebastian-hutschenreuter.jpg" alt="Sebastian Hutschenreuter"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Sebastian Hutschenreuter</p>
+    <p class="role">Postdoctoral researcher</p>
+  </div>
+  
+
+  <div class="group-member">
+    <img src="/assets/images/group/emily-hunt.jpg" alt="Emily Hunt"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Emily Hunt</p>
     <p class="role">Postdoctoral researcher</p>
   </div>
 
@@ -49,25 +70,46 @@ We are always interested in hearing from motivated students and postdocs. See th
 <div class="group-grid">
 
   <div class="group-member">
-    <img src="/assets/images/group/andrea-socci.jpg" alt="Andrea Socci"
+    <img src="/assets/images/group/alena-rottensteiner.jpg" alt="Alena Rottensteiner"
          onerror="this.src='/assets/images/group/placeholder.png'">
-    <p class="name">Andrea Socci</p>
+    <p class="name">Alena Rottensteiner</p>
     <p class="role">PhD student</p>
   </div>
 
   <div class="group-member">
-    <img src="/assets/images/group/l-kormann.jpg" alt="L. Kormann"
+    <img src="/assets/images/group/efrem-maconi.jpg" alt="Efrem Maconi"
          onerror="this.src='/assets/images/group/placeholder.png'">
-    <p class="name">L. Kormann</p>
+    <p class="name">Efrem Maconi</p>
+    <p class="role">PhD student</p>
+  </div>
+  
+  <div class="group-member">
+    <img src="/assets/images/group/miki-pantaleoni.jpg" alt="Miki Pantaleoni"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Miki Pantaleoni</p>
     <p class="role">PhD student</p>
   </div>
 
   <div class="group-member">
-    <img src="/assets/images/group/y-liu.jpg" alt="Y. Liu"
+    <img src="/assets/images/group/lilly-kormann.jpg" alt="Lilly Kormann"
          onerror="this.src='/assets/images/group/placeholder.png'">
-    <p class="name">Y. Liu</p>
+    <p class="name">Lilly Kormann</p>
     <p class="role">PhD student</p>
   </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/guimei-liu.jpg" alt="Guimei Liu"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Guimei Liu</p>
+    <p class="role">PhD student</p>
+  </div>
+
+   <div class="group-member">
+    <img src="/assets/images/group/nora-wagner.jpg" alt="Nora Wagner"
+         onerror="this.src='/assets/images/group/placeholder.png'">
+    <p class="name">Nora Wagner</p>
+    <p class="role">PhD student</p>
+  </div> 
 
   <!-- Duplicate for remaining PhD students -->
 
