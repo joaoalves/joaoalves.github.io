@@ -17,6 +17,8 @@ description   : "Professor of Astrophysics at the University of Vienna. Research
 url           : "https://joaoalves.github.io"   # ← change to your actual GitHub username
 baseurl       : ""
 repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
+include:
+  - _pages
 
 # SEO
 twitter:
@@ -42,7 +44,7 @@ author:
       url     : "https://github.com/joaoalves"            # ← update
     - label   : "University page"
       icon    : "fas fa-fw fa-university"
-      url     : "https://univie.ac.at"
+      url     : "https://univie.ac.at/en"
 
 # Footer links (keep minimal)
 footer:
