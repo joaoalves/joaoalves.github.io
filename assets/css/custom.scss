@@ -1,0 +1,74 @@
+/* ================================================
+   João Alves site — custom overrides
+   File: assets/css/custom.scss
+   Import this from assets/css/main.scss (see note)
+   ================================================ */
+
+/* Group page photo grid
+   ─────────────────────────────────────────────── */
+.group-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.group-member {
+  text-align: center;
+}
+
+.group-member img {
+  width: 100%;
+  aspect-ratio: 1 / 1;   /* forces square crop */
+  object-fit: cover;
+  object-position: top;  /* keeps faces visible */
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  display: block;
+}
+
+.group-member .name {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin: 0.4rem 0 0;
+  color: #111;
+}
+
+.group-member .role {
+  font-size: 0.72rem;
+  color: #888;
+  margin: 0;
+}
+
+/* Masthead — remove bottom border colour from contrast skin
+   ─────────────────────────────────────────────── */
+.masthead {
+  border-bottom: 1px solid #e0e0e0 !important;
+}
+
+/* Sidebar author profile tweaks
+   ─────────────────────────────────────────────── */
+.author__avatar img {
+  border-radius: 4px !important;  /* square-ish, matching group photos */
+  max-width: 140px;
+}
+
+.author__name {
+  font-size: 1.05rem;
+}
+
+/* Page lead paragraph
+   ─────────────────────────────────────────────── */
+.page__lead {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #444;
+  margin-bottom: 1.5rem;
+}
+
+/* Button row on homepage
+   ─────────────────────────────────────────────── */
+.btn--inverse {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
