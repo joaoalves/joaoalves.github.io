@@ -8,12 +8,12 @@ minimal_mistakes_skin  : "contrast"   # cleanest black/white skin
                                       # alternatives: "default", "air"
 
 # Site settings
-locale        : "en-GB"
+locale        : "en-US"
 title         : "João Alves"
 title_separator: "·"
 subtitle      : "Professor of Astrophysics"
 name          : "João Alves"
-description   : "Professor of Astrophysics at the University of Vienna. Research group working on the interstellar medium, star formation, and large-scale Milky Way structure."
+description   : "Professor of Astrophysics at the University of Vienna. Research group working on the interstellar medium, star formation, and the Milky Way."
 url           : "https://joaoalves.github.io"   # ← change to your actual GitHub username
 baseurl       : ""
 repository    : "joaoalves/joaoalves.github.io" # ← change to your repo
@@ -27,7 +27,7 @@ og_image      : "/assets/images/profile.jpg"
 author:
   name        : "João Alves"
   avatar      : "/assets/images/profile.jpg"   # your photo goes here
-  bio         : "Professor of Astrophysics, University of Vienna. ISM · Star formation · Galactic structure."
+  bio         : "Professor of Astrophysics, University of Vienna. ISM · Star formation · Local Milky Way."
   location    : "Vienna, Austria"
   email       : "joao.alves@univie.ac.at"      # ← update
   links:
@@ -36,23 +36,23 @@ author:
       url     : "https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C+Jo%C3%A3o%22"
     - label   : "ORCID"
       icon    : "fab fa-fw fa-orcid"
-      url     : "https://orcid.org/0000-0002-2110-9753"  # ← verify
+      url     : "https://orcid.org/0000-0002-4355-0921"  # ← verify
     - label   : "GitHub"
       icon    : "fab fa-fw fa-github"
       url     : "https://github.com/joaoalves"            # ← update
     - label   : "University page"
       icon    : "fas fa-fw fa-university"
-      url     : "https://sternwarte.univie.ac.at"
+      url     : "https://univie.ac.at"
 
 # Footer links (keep minimal)
 footer:
   links:
     - label   : "ADS"
       icon    : "fas fa-fw fa-star"
-      url     : "https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C+Jo%C3%A3o%22"
-    - label   : "GitHub"
-      icon    : "fab fa-fw fa-github"
-      url     : "https://github.com/joaoalves"
+      url     : "https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Alves%2C%20João%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+    # - label   : "GitHub"
+    #   icon    : "fab fa-fw fa-github"
+    #   url     : "https://github.com/joaoalves"
 
 # Reading / build settings
 encoding      : "utf-8"
