@@ -22,7 +22,7 @@ Built with [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (Je
 │       └── group/         ← one photo per member, named consistently
 │           ├── placeholder.png
 │           ├── joao-alves.jpg
-│           ├── andrea-socci.jpg
+│           ├── stefan-meingast.jpg
 │           └── ...
 ├── index.md               ← About / home page
 └── Gemfile
