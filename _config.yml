@@ -113,3 +113,6 @@ defaults:
       layout        : single
 
 # Navigation — defined in _data/navigation.yml (see that file)
+
+atom_feed:
+  hide: true
