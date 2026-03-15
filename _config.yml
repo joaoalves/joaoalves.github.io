@@ -116,3 +116,6 @@ defaults:
 
 atom_feed:
   hide: true
+
+feed:
+  disable_in_footer: true
