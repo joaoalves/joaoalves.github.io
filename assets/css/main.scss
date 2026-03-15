@@ -27,18 +27,13 @@ search: false
 .group-member .name { font-size: 0.8rem; font-weight: 600; margin: 0.4rem 0 0; }
 .group-member .role { font-size: 0.72rem; color: #888; margin: 0; }
 
-/* Sidebar author photo — square-ish */
-.author__avatar img {
-  border-radius: 4px !important;
-  max-width: 140px;
-}
+/* Sidebar author photo */
+.author__avatar img,
+.author__avatar img:hover { opacity: 1; }
+.author__avatar img { border-radius: 4px !important; max-width: 140px; }
+
+/* Footer */
+.page__footer-copyright { display: none; }
 
 /* Button spacing */
-.btn--inverse { margin-right: 0.5rem; margin-bottom: 0.5rem; }
-
-.page__footer-copyright { display: none; }
-
-.page__footer-copyright { display: none; }
-.author__avatar img { border-radius: 4px !important; max-width: 140px; }
-.author__avatar img:hover { opacity: 1; }
 .btn--inverse { margin-right: 0.5rem; margin-bottom: 0.5rem; }
