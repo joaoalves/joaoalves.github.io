@@ -46,3 +46,9 @@ search: false
 
 /* Navbar title size */
 .site-title { font-size: 1.9rem; }
+
+/* Splash page hero — full height */
+.page__hero--overlay {
+  min-height: 80vh;
+  padding: 8em 0;
+}

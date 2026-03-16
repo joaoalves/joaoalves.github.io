@@ -1,8 +1,9 @@
 ---
 layout: splash
 permalink: /
+title: false
 header:
-  overlay_image: /assets/images/splash.jpg
+  overlay_image: /assets/images/hero.jpg
   overlay_filter: 0.3
-excerpt: "Professor of Astrophysics · University of Vienna"
+excerpt: "How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets?"
 ---
