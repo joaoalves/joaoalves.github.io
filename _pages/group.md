@@ -9,7 +9,7 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 ---
 
-### Faculty & senior staff
+### Faculty
 
 <div class="group-grid">
 
