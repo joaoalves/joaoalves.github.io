@@ -9,7 +9,7 @@ minimal_mistakes_skin  : "contrast"   # cleanest black/white skin
 
 # Site settings
 locale        : "en-US"
-title         : "João Alves Research Group"
+title         : "AlvesLab"
 title_separator: "·"
 # subtitle      : "Professor of Astrophysics"
 name          : "João Alves"
@@ -28,7 +28,7 @@ twitter:
 author:
   name        : "João Alves"
   avatar      : "/assets/images/profile.png"   # your photo goes here
-  bio         : "Professor of Astrophysics"
+  # bio         : "Professor of Astrophysics, University of Vienna."
   # location    : "Vienna, Austria"
   email       : "joao.alves@univie.ac.at"      # ← update
   links:
