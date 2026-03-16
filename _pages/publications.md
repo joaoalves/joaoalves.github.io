@@ -5,7 +5,7 @@ author_profile: true
 permalink: /publications/
 ---
 
-For the complete list including older work see [NASA ADS ↗]([https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C+Jo%C3%A3o%22&sort=date+desc](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Alves%2C%20Jo%C3%A3o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)){: .btn .btn--inverse}
+For the complete list including older work see [NASA ADS ↗](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Alves%2C%20Jo%C3%A3o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn--inverse}
 
 ---
 
