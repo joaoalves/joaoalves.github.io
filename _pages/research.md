@@ -11,7 +11,7 @@ permalink: /research/
 
 ## The Radcliffe Wave and other superclouds
 
-The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known gaseous structure in the Milky Way ([Alves et al. 2020, *Nature*](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional extent, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust reconstruction.
+The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known gaseous structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional extent, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust reconstruction.
 
 ## Star formation in molecular clouds
 
