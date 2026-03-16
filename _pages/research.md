@@ -8,7 +8,6 @@ permalink: /research/
 **How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets?** 
 <!-- To address this question, we combine Large NIR ESO surveys, ESA Gaia, Herschel and Planck, with radio observations. -->
 
----
 
 ## The Radcliffe Wave and other superclouds
 
