@@ -16,7 +16,7 @@ For the complete list see <a href="https://ui.adsabs.harvard.edu/search/filter_d
 <!-- [NASA ADS ↗](https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C%20Jo%C3%A3o%22&sort=date%20desc%2C%20bibcode%20desc/metrics){: .btn .btn--inverse}  
 [Google Scholar ↗](https://scholar.google.com/citations?user=x1D2CWQAAAAJ&hl=en){: .btn .btn--inverse} -->
 
-<a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A%22Alves%2C%20Jo%C3%A3o%22&sort=date%20desc%2C%20bibcode%20desc&p_=0" class="btn btn--inverse" target="_blank" rel="noopener">NASA ADS ↗</a>
+<a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Alves%2C%20Jo%C3%A3o%22&sort=date%20desc%2C%20bibcode%20desc/metrics" class="btn btn--inverse" target="_blank" rel="noopener">NASA ADS ↗</a>
 <a href="https://scholar.google.com/citations?user=x1D2CWQAAAAJ&hl=en" class="btn btn--inverse" target="_blank" rel="noopener">Google Scholar ↗</a>
 
 
