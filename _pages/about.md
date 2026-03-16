@@ -7,7 +7,7 @@ permalink: /about/
 
 <div style="font-size: 0.85rem; line-height: 1.8;">
 
-<a href="https://geschichte.univie.ac.at/de/personen/joao-alves">Professor of Astrophysics</a> at the <a href="https://univie.ac.at">University of Vienna</a><br>
+<a href="https://geschichte.univie.ac.at/en/persons/joao-alves">Professor of Astrophysics</a> at the <a href="https://univie.ac.at">University of Vienna</a><br>
 <a href="https://www.oeaw.ac.at/en/m/alves-joao">Member of the Austrian Academy of Sciences</a><br>
 <a href="https://fgga.univie.ac.at/en/">Former Dean of the Faculty</a><br>
 <a href="https://www.aanda.org/">Editor-in-Chief of Astronomy &amp; Astrophysics Letters</a><br>
