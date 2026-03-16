@@ -28,7 +28,7 @@ twitter:
 author:
   name        : "João Alves"
   avatar      : "/assets/images/profile.png"   # your photo goes here
-  bio         : "University of Vienna"
+  bio         : " "
   # location    : "Vienna, Austria"
   email       : "joao.alves@univie.ac.at"      # ← update
   links:
