@@ -17,8 +17,7 @@ permalink: /
 
 </div>
 
-
-<p>
+<p style="margin-top: 1.5rem;">
   <a href="/research/" class="btn btn--inverse">View research →</a>
   <a href="/group/" class="btn btn--inverse">Meet the group →</a>
   <a href="/publications/" class="btn btn--inverse">Publications →</a>
