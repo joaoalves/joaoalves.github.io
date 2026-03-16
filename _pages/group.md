@@ -5,7 +5,7 @@ author_profile: true
 permalink: /group/
 ---
 
-Our group at the Department of Astrophysics in Vienna combines observers, theorists, and data scientists at all career stages. We are always interested in hearing from motivated students and postdocs. See the [contact page](mailto:joao.alves@univie.ac.at) for inquiries.
+Our group at the Department of Astrophysics in Vienna combines observers, theorists, and data scientists at all career stages. We are always interested in hearing from motivated students and postdocs. 
 
 ---
 
