@@ -28,7 +28,7 @@ twitter:
 author:
   name        : "João Alves"
   avatar      : "/assets/images/profile.png"   # your photo goes here
-  # bio         : "Professor of Astrophysics, University of Vienna."
+  bio         : "University of Vienna"
   # location    : "Vienna, Austria"
   email       : "joao.alves@univie.ac.at"      # ← update
   links:
