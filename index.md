@@ -1,9 +1,9 @@
 ---
 layout: splash
 permalink: /
-title: false
+title: "How do diffuse interstellar clouds form"
 header:
-  overlay_image: /assets/images/hero.jpg
+  overlay_image: /assets/images/splash.jpg
   overlay_filter: 0.3
-excerpt: "How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets?"
+excerpt: "evolve, and eventually collapse to form stars and planets?"
 ---
