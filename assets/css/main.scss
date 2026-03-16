@@ -31,7 +31,12 @@ search: false
 .author__avatar img,
 .author__avatar img:hover { opacity: 1; }
 .author__avatar img { border-radius: 4px !important; max-width: 140px; }
-.sidebar { opacity: 1 !important; }
+
+/* Disable sidebar fade — rule is inside a media query in the theme */
+@media (min-width: 64em) {
+  .sidebar { opacity: 1 !important; transition: none !important; }
+  .sidebar:hover { opacity: 1 !important; }
+}
 
 /* Footer */
 .page__footer-copyright { display: none; }
@@ -39,4 +44,5 @@ search: false
 /* Button spacing */
 .btn--inverse { margin-right: 0.5rem; margin-bottom: 0.5rem; }
 
+/* Navbar title size */
 .site-title { font-size: 1.9rem; }
