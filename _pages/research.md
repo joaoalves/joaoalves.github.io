@@ -3,6 +3,7 @@ layout: single
 title: "Research"
 author_profile: true
 permalink: /research/
+classes: wide
 ---
 What is the 3D motion of the gas and young stars in the solar neighborhood? How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets? How do these clouds interact with the Solar System on its Galactic journey?
 
@@ -18,6 +19,7 @@ The research group is organized around the following main themes:
   <img src="/assets/images/research/radcliffe-wave.jpg" alt="Radcliffe Wave">
   <p>The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way (<a href="https://www.nature.com/articles/s41586-019-1874-z">Alves et al. 2020, Nature</a>). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps.</p>
 </div>
+
 
 ## Filamentary cloud formation & star formation
 
