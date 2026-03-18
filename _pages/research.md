@@ -8,7 +8,7 @@ What is the 3D motion of the gas and young stars in the solar neighborhood? How 
 
 To address these questions, we combine large [NIR ESO surveys](https://visions.univie.ac.at), ESA [Gaia](https://www.esa.int/Science_Exploration/Space_Science/Gaia), [Herschel](https://www.esa.int/Science_Exploration/Space_Science/Herschel), and [Planck](https://www.esa.int/Science_Exploration/Space_Science/Planck), integrating astrometric, photometric, and dust emission data into a coherent three-dimensional view of the interstellar medium. By linking stellar kinematics with the spatial distribution and physical properties of dust and gas, we reconstruct the dynamical structure of nearby star-forming regions and reveal how interstellar gas organizes itself into the structures that give rise to stars, planets, and eventually, life.
 
-How group research is organized around the following main themes:
+The research group is organized around the following main themes:
 
 ## The Radcliffe Wave and the local superclouds
 
@@ -16,7 +16,7 @@ How group research is organized around the following main themes:
 
 <div class="research-block">
   <img src="/assets/images/research/radcliffe-wave.jpg" alt="Radcliffe Wave">
-  <p>The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps.</p>
+  <p>The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way (<a href="https://www.nature.com/articles/s41586-019-1874-z">Alves et al. 2020, Nature</a>). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps.</p>
 </div>
 
 ## Filamentary cloud formation & star formation
