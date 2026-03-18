@@ -5,7 +5,7 @@ author_profile: true
 permalink: /research/
 classes: wide
 ---
-What is the 3D motion of the gas and young stars in the solar neighborhood? How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets? How do these clouds interact with the Solar System on its Galactic journey?
+**What is the 3D motion of the gas and young stars in the solar neighborhood? How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets? How do these clouds interact with the Solar System on its Galactic journey?**
 
 To address these questions, we combine large [NIR ESO surveys](https://visions.univie.ac.at), ESA [Gaia](https://www.esa.int/Science_Exploration/Space_Science/Gaia), [Herschel](https://www.esa.int/Science_Exploration/Space_Science/Herschel), and [Planck](https://www.esa.int/Science_Exploration/Space_Science/Planck), integrating astrometric, photometric, and dust emission data into a coherent three-dimensional view of the interstellar medium. By linking stellar kinematics with the spatial distribution and physical properties of dust and gas, we reconstruct the dynamical structure of nearby star-forming regions and reveal how interstellar gas organizes itself into the structures that give rise to stars, planets, and eventually, life.
 
@@ -21,7 +21,7 @@ The research group is organized around the following main themes:
 </div>
 
 
-## Filamentary cloud formation & star formation
+## Star-forming filamentary clouds
 
 From filamentary cloud formation to the formation of stellar clusters, we study how molecular clouds convert gas into stars on a range of environments. Current work focuses on the 3D motion of Ophiuchus, Taurus-Perseus, and Orion using our ESO Public Survey VISIONS, ESA Gaia, and JWST data.
 
