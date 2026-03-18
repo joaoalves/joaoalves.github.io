@@ -10,7 +10,7 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 ---
 
-### Faculty
+<!-- ### Faculty -->
 
 <div class="group-grid">
 
@@ -136,8 +136,30 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 <!-- Former group members and their current positions will be listed here. -->
  <div class="group-member">
-    <img src="/assets/images/group/nora-wagner.jpg" alt="Núria Miret-Roig"
+    <img src="/assets/images/group/nuria-miret.jpg" alt="Núria Miret-Roig"
          onerror="this.src='/assets/images/group/nuria-miret.png'">
     <p class="name">Núria Miret-Roig</p>
     <!-- <p class="role">PhD student</p> -->
   </div> 
+
+ <div class="group-member">
+    <img src="/assets/images/group/sebastian-ratzenbock.jpg" alt="Sebastian Ratzenböck"
+         onerror="this.src='/assets/images/group/sebastian-ratzenbock.png'">
+    <p class="name">Sebastian Ratzenböck</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
+
+  <div class="group-member">
+    <img src="/assets/images/group/josefa-grossschedl.jpg" alt="Josefa Großschedl"
+         onerror="this.src='/assets/images/group/josefa-grossschedl.png'">
+    <p class="name">Josefa Großschedl</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
+
+  <div class="group-member">
+    <img src="/assets/images/group/kieran-lechinski.jpg" alt="Kieran Lechinski"
+         onerror="this.src='/assets/images/group/kieran-lechinski.png'">
+    <p class="name">Kieran Lechinski</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
+  
