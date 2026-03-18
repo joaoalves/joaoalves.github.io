@@ -32,9 +32,9 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 </div>
 
----
+<!-- ---
 
-### Postdoctoral researchers
+### Postdoctoral researchers -->
 
 <div class="group-grid">
 
@@ -64,9 +64,9 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 </div>
 
----
+<!-- ---
 
-### PhD students
+### PhD students -->
 
 <div class="group-grid">
 
@@ -116,9 +116,9 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 </div>
 
----
+<!-- ---
 
-### Master & bachelor students
+### Master students -->
 
 <div class="group-grid">
 
