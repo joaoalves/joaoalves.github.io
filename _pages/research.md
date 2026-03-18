@@ -4,16 +4,15 @@ title: "Research"
 author_profile: true
 permalink: /research/
 ---
+What is the 3D motion of the gas and young stars in the solar neighborhood? How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets? To address these questions, we combine Large NIR ESO surveys, ESA Gaia, Herschel and Planck, with radio observations. Our research is organized around the following themes:
 
-**How do diffuse interstellar clouds form, evolve, and eventually collapse to form stars and planets?** 
-<!-- To address this question, we combine Large NIR ESO surveys, ESA Gaia, Herschel and Planck, with radio observations. -->
+How group research is organized around the following themes:
 
+## The Radcliffe Wave and the local superclouds
 
-## The Radcliffe Wave and other superclouds
+The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known gaseous structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps.
 
-The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known gaseous structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional extent, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust reconstruction.
-
-## Star formation in molecular clouds
+## Star formation in the solar neighborhood
 
 From filamentary cloud formation to the formation of stellar clusters, we study how molecular clouds convert gas into stars and planets across a range of environments. Current work focuses on the 3D motion of Ophiuchus, Taurus-Perseus, and Orion using Gaia, IRAM, and JWST data.
 
