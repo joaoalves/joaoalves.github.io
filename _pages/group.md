@@ -135,6 +135,8 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 ### Alumni
 
 <!-- Former group members and their current positions will be listed here. -->
+<div class="group-grid">
+
  <div class="group-member">
     <img src="/assets/images/group/nuria-miret.jpg" alt="Núria Miret-Roig"
          onerror="this.src='/assets/images/group/nuria-miret.png'">
@@ -247,6 +249,8 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
     <p class="name">Elisabeth Künzl</p>    
   </div>
 
+  
+</div>
 
 
 
