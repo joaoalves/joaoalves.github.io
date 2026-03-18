@@ -163,3 +163,97 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
     <!-- <p class="role">PhD student</p> -->
   </div> 
   
+  <div class="group-member">
+    <img src="/assets/images/group/isak-niederbrunner.jpg" alt="Isak Niederbrunner"
+         onerror="this.src='/assets/images/group/isak-niederbrunner.png'">
+    <p class="name">Isak Niederbrunner</p>
+  </div> 
+
+  <div class="group-member">
+    <img src="/assets/images/group/natalie-grasser.jpg" alt="Natalie Grasser"
+         onerror="this.src='/assets/images/group/natalie-grasser.png'">
+    <p class="name">Natalie Grasser</p>
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/gabor-kiss.jpg" alt="Gábor Kiss"
+         onerror="this.src='/assets/images/group/gabor-kiss.png'">
+    <p class="name">Gábor Herbst-Kiss</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/theodor-saalmann.jpg" alt="Theodor Saalmann"
+         onerror="this.src='/assets/images/group/theodor-saalmann.png'">
+    <p class="name">Theodor Saalmann</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/birgit-hasenberger.jpg" alt="Birgit Hasenberger"
+         onerror="this.src='/assets/images/group/birgit-hasenberger.png'">
+    <p class="name">Birgit Hasenberger</p>    
+  </div>  
+
+  <div class="group-member">
+    <img src="/assets/images/group/verena-furnkranz.jpg" alt="Verena Furnkranz"
+         onerror="this.src='/assets/images/group/verena-furnkranz.png'">
+    <p class="name">Verena Fürnkranz</p>    
+  </div>  
+
+  <div class="group-member">
+    <img src="/assets/images/group/christine-ackerl.jpg" alt="Christine Ackerl"
+         onerror="this.src='/assets/images/group/christine-ackerl.png'">
+    <p class="name">Christine Ackerl</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/margit-schmid.jpg" alt="Margit Schmid"
+         onerror="this.src='/assets/images/group/margit-schmid.png'">
+    <p class="name">Margit Schmid</p>    
+  </div>  
+
+  <div class="group-member">
+    <img src="/assets/images/group/karolina-kubiak.jpg" alt="Karolina Kubiak"
+         onerror="this.src='/assets/images/group/karolina-kubiak.png'">
+    <p class="name">Karolina Kubiak</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/irati-larreina.jpg" alt="Irati Larreina"
+         onerror="this.src='/assets/images/group/irati-larreina.png'">
+    <p class="name">Irati Larreina</p>    
+  </div>  
+
+  <div class="group-member">
+    <img src="/assets/images/group/alvaro-hacar.jpg" alt="Alvaro Hacar"
+         onerror="this.src='/assets/images/group/alvaro-hacar.png'">
+    <p class="name">Alvaro Hacar</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/jan-forbrich.jpg" alt="Jan Forbrich"
+         onerror="this.src='/assets/images/group/jan-forbrich.png'">
+    <p class="name">Jan Forbrich</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/paula-teixeira.jpg" alt="Paula Teixeira"
+         onerror="this.src='/assets/images/group/paula-teixeira.png'">
+    <p class="name">Paula Teixeira</p>    
+  </div>  
+
+  <div class="group-member">
+    <img src="/assets/images/group/elisabeth-kunzl.jpg" alt="Elisabeth Kunzl"
+         onerror="this.src='/assets/images/group/elisabeth-kunzl.png'">
+    <p class="name">Elisabeth Künzl</p>    
+  </div>
+
+
+
+
+
+
+
+
+
+
+
