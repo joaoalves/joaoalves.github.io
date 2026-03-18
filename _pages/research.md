@@ -12,7 +12,12 @@ How group research is organized around the following main themes:
 
 ## The Radcliffe Wave and the local superclouds
 
-The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps.
+<!-- The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps. -->
+
+<div class="research-block">
+  <img src="/assets/images/research/radcliffe-wave.jpg" alt="Radcliffe Wave">
+  <p>The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps.</p>
+</div>
 
 ## Filamentary cloud formation & star formation
 
