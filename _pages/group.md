@@ -92,6 +92,12 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
   </div>
 
   <div class="group-member">
+    <img src="/assets/images/group/zhetai-cao.png" alt="Zhetai Cao">
+    <p class="name">Zhetai Cao</p>
+    <p class="role">PhD student</p>
+  </div>
+
+  <div class="group-member">
     <img src="/assets/images/group/lilly-kormann.jpg" alt="Lilly Kormann"
          onerror="this.src='/assets/images/group/lilly-kormann.png'">
     <p class="name">Lilly Kormann</p>
@@ -122,20 +128,23 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 <!-- <div class="group-grid"> -->
 
-  <div class="group-member">
-    <img src="/assets/images/group/placeholder.png" alt="MSc student">
-    <p class="name">Name</p>
-    <p class="role">Master thesis</p>
-  </div>
+
 
 </div>
 
 ---
 
-### Alumni
+### Previous group members
 
 <!-- Former group members and their current positions will be listed here. -->
 <div class="group-grid">
+
+ <div class="group-member">
+    <img src="/assets/images/group/fabian-polnitzky.jpg" alt="Fabian Polnitzky"
+         onerror="this.src='/assets/images/group/fabian-polnitzky.png'">
+    <p class="name">Fabian Polnitzky</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
 
  <div class="group-member">
     <img src="/assets/images/group/nuria-miret.jpg" alt="Núria Miret-Roig"
@@ -248,6 +257,37 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
          onerror="this.src='/assets/images/group/elisabeth-kunzl.png'">
     <p class="name">Elisabeth Künzl</p>    
   </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/carlos-roman.jpg" alt="Carlos Román"
+         onerror="this.src='/assets/images/group/carlos-roman.png'">
+    <p class="name">Carlos Román</p>    
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/jouni-kainulainen.jpg" alt="Jouni Kainulainen"
+         onerror="this.src='/assets/images/group/jouni-kainulainen.png'">  
+    <p class="name">Jouni Kainulainen</p>         
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/silvia-vicente.jpg" alt="Sílvia Vicente"
+         onerror="this.src='/assets/images/group/silvia-vicente.png'">  
+    <p class="name">Silvia Vicente</p>  
+  </div>
+
+  <div class="group-member">
+    <img src="/assets/images/group/yuri-beletsky.jpg" alt="Yuri Beletsky"
+         onerror="this.src='/assets/images/group/yuri-beletsky.png'">  
+    <p class="name">Yuri Beletsky</p>  
+  </div>    
+
+  <div class="group-member">
+    <img src="/assets/images/group/joana-ascenso.jpg" alt="Joana Ascenso"
+         onerror="this.src='/assets/images/group/joana-ascenso.png'">  
+    <p class="name">Joana Ascenso</p>
+  </div> 
+
 
   
 </div>

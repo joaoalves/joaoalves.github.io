@@ -31,7 +31,7 @@ We trace the young (< 100 Myr) stellar population of the Milky Way, OB associati
 
 ## The impact of the Milky Way on planet Earth
 
-The Milky Way is not a passive backdrop to the formation and evolution of our Solar System. We are investigating how the Sun's motion through the Galaxy, and its passage through dense interstellar clouds, has influenced the history of our planet and life on Earth.
+The Milky Way is not a passive backdrop to the formation and evolution of our Solar System. We are investigating how the Sun’s motion through the Galaxy, and its passage through dense interstellar clouds, has influenced the history of our planet and life on Earth. In addition, we study the large-scale flows of low-density, high-velocity gas escaping from nearby star-forming regions such as Sco–Cen and Orion, tracing how feedback from massive stars shapes the local interstellar environment. These outflows may modulate the conditions encountered by the Solar System on its journey through the Galaxy.
 
 ## Telescopes & data
 
