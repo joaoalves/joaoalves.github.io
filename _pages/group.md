@@ -3,6 +3,7 @@ layout: single
 title: "Group"
 author_profile: true
 permalink: /group/
+classes: wide
 ---
 
 Our group at the Department of Astrophysics in Vienna combines observers, theorists, and data scientists at all career stages. We are always interested in hearing from motivated students and postdocs. 
