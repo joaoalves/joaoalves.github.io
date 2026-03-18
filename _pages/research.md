@@ -27,7 +27,7 @@ From filamentary cloud formation to the formation of stellar clusters, we study 
 
 ## Young stellar populations & cluster dynamics
 
-We trace the young (< 100 Myr) stellar population of the Milky Way, OB associations, open clusters, and moving groups, to understand how star formation histories couple to large-scale gas dynamics. Sco-Cen serves as our primary laboratory for this work.
+We trace the young (< 100 Myr) stellar population of the Milky Way, OB associations, open clusters, and moving groups, to understand how star formation histories couple to large-scale gas dynamics. Recent results show that nearby young populations are not isolated clusters, but part of dynamically coherent extended families. In particular, we find evidence that the Sco–Cen complex, a prime laboratory for our group, is embedded in a network of expanding shells and stellar streams, linking it to the broader structure of the local Galactic disk and revealing how clustered star formation imprints long-lived kinematic patterns on young stars and the ISM.
 
 ## The impact of the Milky Way on planet Earth
 

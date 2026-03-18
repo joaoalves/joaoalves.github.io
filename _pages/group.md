@@ -118,17 +118,6 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
     <p class="role">PhD student</p>
   </div> 
 
-  <!-- Duplicate for remaining PhD students -->
-
-<!-- </div> -->
-
-<!-- ---
-
-### Master students -->
-
-<!-- <div class="group-grid"> -->
-
-
 
 </div>
 
@@ -138,6 +127,20 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 <!-- Former group members and their current positions will be listed here. -->
 <div class="group-grid">
+
+ <div class="group-member">
+    <img src="/assets/images/group/laura-posch.jpg" alt="Laura Posch"
+         onerror="this.src='/assets/images/group/laura-posch.png'">
+    <p class="name">Laura Posch</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
+
+ <div class="group-member">
+    <img src="/assets/images/group/cameren-swiggum.jpg" alt="Cameren Swiggum"
+         onerror="this.src='/assets/images/group/cameren-swiggum.png'">
+    <p class="name">Cameren Swiggum</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
 
  <div class="group-member">
     <img src="/assets/images/group/fabian-polnitzky.jpg" alt="Fabian Polnitzky"
