@@ -52,3 +52,18 @@ search: false
   min-height: 80vh;
   padding: 8em 0;
 }
+
+/* Research page image + text blocks */
+.research-block img {
+  float: left;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin: 0 1.5rem 1rem 0;
+}
+.research-block::after {
+  content: "";
+  display: table;
+  clear: both;
+}
