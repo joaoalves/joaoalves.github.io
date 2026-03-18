@@ -30,26 +30,26 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
   <!-- Add more senior staff here following the same pattern -->
 
-</div>
+<!-- </div> -->
 
 <!-- ---
 
 ### Postdoctoral researchers -->
 
-<div class="group-grid">
+<!-- <div class="group-grid"> -->
 
   <div class="group-member">
     <img src="/assets/images/group/martin-piecka.jpg" alt="Martin Piecka"
          onerror="this.src='/assets/images/group/martin-piecka.png'">
     <p class="name">Martin Piecka</p>
-    <p class="role">Postdoctoral researcher</p>
+    <p class="role">Postdoc</p>
   </div>
 
   <div class="group-member">
     <img src="/assets/images/group/sebastian-hutschenreuter.jpg" alt="Sebastian Hutschenreuter"
          onerror="this.src='/assets/images/group/sebastian-hutschenreuter.png'">
     <p class="name">Sebastian Hutschenreuter</p>
-    <p class="role">Postdoctoral researcher</p>
+    <p class="role">Postdoc</p>
   </div>
   
 
@@ -57,18 +57,18 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
     <img src="/assets/images/group/emily-hunt.jpg" alt="Emily Hunt"
          onerror="this.src='/assets/images/group/emily-hunt.png'">
     <p class="name">Emily Hunt</p>
-    <p class="role">Postdoctoral researcher</p>
+    <p class="role">Postdoc</p>
   </div>
 
   <!-- Duplicate blocks for each postdoc -->
 
-</div>
+<!-- </div> -->
 
 <!-- ---
 
 ### PhD students -->
 
-<div class="group-grid">
+<!-- <div class="group-grid"> -->
 
   <div class="group-member">
     <img src="/assets/images/group/alena-rottensteiner.jpg" alt="Alena Rottensteiner"
@@ -114,13 +114,13 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
   <!-- Duplicate for remaining PhD students -->
 
-</div>
+<!-- </div> -->
 
 <!-- ---
 
 ### Master students -->
 
-<div class="group-grid">
+<!-- <div class="group-grid"> -->
 
   <div class="group-member">
     <img src="/assets/images/group/placeholder.png" alt="MSc student">
@@ -134,4 +134,10 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 ### Alumni
 
-Former group members and their current positions will be listed here.
+<!-- Former group members and their current positions will be listed here. -->
+ <div class="group-member">
+    <img src="/assets/images/group/nora-wagner.jpg" alt="Núria Miret-Roig"
+         onerror="this.src='/assets/images/group/nuria-miret.png'">
+    <p class="name">Núria Miret-Roig</p>
+    <!-- <p class="role">PhD student</p> -->
+  </div> 
