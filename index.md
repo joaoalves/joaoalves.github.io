@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "How do cold dark interstellar clouds form?"
+title: "Where did we come from?"
 header:
   overlay_image: /assets/images/splash.jpg
   overlay_filter: 0.3
