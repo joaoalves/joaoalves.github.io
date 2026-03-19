@@ -23,7 +23,7 @@ The research group is organized around the following main themes:
 
 ## Star-forming filamentary clouds
 
-From filamentary cloud formation to the formation of stellar clusters, we study how molecular clouds convert gas into stars on a range of environments. Current work focuses on the 3D motion of Ophiuchus, Taurus-Perseus, and Orion using our ESO Public Survey VISIONS, ESA Gaia, and JWST data.
+From filamentary cloud formation to the formation of stellar clusters, we study how molecular clouds convert gas into stars across a range of environments. Current work focuses on the 3D motion of Ophiuchus, Taurus–Perseus, and Orion using our ESO Public Survey VISIONS, ESA Gaia, and JWST data. Our recent results show that these regions are part of extended, dynamically connected structures shaped by large-scale flows, with coherent velocity patterns linking filaments, cores, and young stellar populations, sometimes long chains of stellar clusters. This supports a picture in which star formation proceeds within a continuously evolving network rather than in isolated, static clouds.
 
 ## Young stellar populations & cluster dynamics
 
