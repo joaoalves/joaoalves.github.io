@@ -5,12 +5,18 @@ author_profile: true
 permalink: /research/
 classes: wide
 ---
-**What is the space motion of the gas in the solar neighborhood? How do diffuse interstellar clouds form and collapse to form stars, planets, and eventually, life? How do these clouds interact with the Solar System on its Galactic journey?**
+**What is the space motion of interstellar gas in the solar neighborhood? How do diffuse interstellar clouds form and collapse to form stars, planets, and eventually, life? How do these clouds interact with the Solar System on its Galactic journey?**
 
 To address these questions, we combine large [NIR ESO surveys](https://visions.univie.ac.at), ESA [Gaia](https://www.esa.int/Science_Exploration/Space_Science/Gaia), [Herschel](https://www.esa.int/Science_Exploration/Space_Science/Herschel), and [Planck](https://www.esa.int/Science_Exploration/Space_Science/Planck), integrating astrometric, photometric, and dust extinction/emission data into a coherent three-dimensional view of the interstellar medium. By linking stellar kinematics with the spatial distribution and physical properties of dust and gas, we reconstruct the dynamical structure of nearby star-forming regions and reveal how interstellar gas organizes itself into the structures that give rise to stars, planets, and life.
 
-The research group is organized around the following main themes:
+Upcoming international meetings organized by the group:
 
+- ISM-FLOW Workshop 3 (Maria Taferl, April 2026)
+- [Star Formation Fields](https://star-formation-fields.univie.ac.at) (Crete, September 2026)
+- [The Galactic Journey Of The Solar System: Astronomical, Geological, And Paleo-Climatological Perspectives](https://www.munich-iapbp.de/activities/activities-2027/solar-system) (Garching bei München, May 2027)
+
+
+The research group is organized around the following main themes:
 ## The Radcliffe Wave and the local superclouds
 
 <!-- The solar neighborhood contains a coherent, 2.7 kpc sinusoidal wave of star-forming gas — the largest known coherent gas structure in the Milky Way ([Alves et al. 2020, Nature](https://www.nature.com/articles/s41586-019-1874-z)). We are mapping its three-dimensional structure, its kinematics, and relationship to other local superclouds using Gaia, radio surveys, and 3D dust maps. -->
@@ -35,7 +41,7 @@ The stars that emerge from these star-forming regions do not simply disperse int
 
 ## The impact of the Milky Way on planet Earth
 
-The Milky Way is not a passive backdrop to the formation and evolution of our Solar System. We are investigating how the Sun’s motion through the Galaxy, and its passage through dense interstellar clouds, has influenced the history of our planet and life on Earth. In addition, we study the large-scale flows of low-density, high-velocity gas escaping from nearby star-forming regions such as Sco–Cen and Orion, tracing how feedback from massive stars shapes the local interstellar environment. These outflows may modulate the conditions encountered by the Solar System on its journey through the Galaxy.
+Every 250 million years, the Solar System completes one full orbit around the Milky Way. Along the way, it passes through a changing landscape of interstellar gas, dense clouds, and stellar nurseries. Far from being a passive backdrop, the Galaxy is an active influence on the history of our planet and the conditions for life. We are investigating how the Sun's passage through dense interstellar clouds has left its mark on Earth's geological and climatic record, and how large-scale flows of high-velocity gas escaping from nearby star-forming regions such as Sco–Cen and Orion shape the local interstellar environment the Solar System moves through. These outflows may modulate the very conditions encountered by Earth on its long Galactic journey.
 
 ## Telescopes & data
 
