@@ -264,7 +264,7 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
   <div class="group-member">
     <img src="/assets/images/group/carlos-roman.jpg" alt="Carlos Román"
          onerror="this.src='/assets/images/group/carlos-roman.png'">
-    <p class="name">Carlos Román</p>    
+    <p class="name">Carlos Román-Zúñiga</p>    
   </div>
 
   <div class="group-member">
