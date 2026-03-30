@@ -13,7 +13,7 @@ search: false
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 1.25rem;
   margin: 1.5rem 0 2rem;
-}
+} 
 .group-member { text-align: center; }
 .group-member img {
   width: 100%;
@@ -31,7 +31,8 @@ search: false
 .author__avatar img,
 .author__avatar img:hover { opacity: 1; }
 .author__avatar img { border-radius: 4px !important; max-width: 140px; }
-
+/* Hide author name under sidebar avatar on all pages */
+.author__name { display: none;}
 /* Disable sidebar fade — rule is inside a media query in the theme */
 @media (min-width: 64em) {
   .sidebar { opacity: 1 !important; transition: none !important; }
@@ -84,3 +85,12 @@ search: false
 }
 
 .page__footer { text-align: center; }
+
+/* Splash page: remove gap between hero image and footer */
+.layout--splash .page__hero--overlay {
+  margin-bottom: 0;
+}
+
+.layout--splash .page__footer {
+  margin-top: 0;
+}

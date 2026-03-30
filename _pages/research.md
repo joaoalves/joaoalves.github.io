@@ -24,7 +24,7 @@ The research group is organized around the following main themes:
 
 The solar neighborhood is structured by a chain of giant molecular cloud complexes arranged along a coherent, 2.7 kpc sinusoidal wave of gas now known as the Radcliffe Wave ([Alves et al. 2020](https://www.nature.com/articles/s41586-019-1874-z)). These superclouds are the mother clouds: vast, coherent reservoirs of atomic gas that fragment into giant molecular clouds that eventually collapse into the star-forming regions that populate the Galactic disk. Every star in the solar neighborhood, including our own Sun, was born inside one of these structures. 
 
-We are mapping the three-dimensional architecture and kinematics of the Radcliffe Wave and its superclouds using Gaia astrometry, radio surveys, and 3D dust reconstruction, tracing how gas flows into these structures, how they fragment into star-forming regions, and how stellar feedback eventually disperses them, completing the cycle that has driven star formation in the Milky Way for billions of years. 4
+We are mapping the three-dimensional architecture and kinematics of the Radcliffe Wave and its superclouds using Gaia astrometry, radio surveys, and 3D dust reconstruction, tracing how gas flows into these structures, how they fragment into star-forming regions, and how stellar feedback eventually disperses them, completing the cycle that has driven star formation in the Milky Way for billions of years. 
 
 <!-- <div class="research-block">
   <img src="/assets/images/research/radcliffe-wave.jpg" alt="Radcliffe Wave">
