@@ -94,3 +94,16 @@ search: false
 .layout--splash .page__footer {
   margin-top: 0;
 }
+
+/* Text links only: keep navbar and sidebar colors unchanged */
+.page__content a:not(.btn) {
+  color: #8b0000;
+}
+
+.page__content a:not(.btn):visited {
+  color: #6f0000;
+}
+
+.page__content a:not(.btn):hover {
+  color: #5a0000;
+}
