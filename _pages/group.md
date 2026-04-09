@@ -54,8 +54,7 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
   
 
   <div class="group-member">
-    <img src="/assets/images/group/emily-hunt.jpg" alt="Emily Hunt"
-         onerror="this.src='/assets/images/group/emily-hunt.png'">
+    <img src="/assets/images/group/emily-hunt.jpg" alt="Emily Hunt">
     <p class="name">Emily Hunt</p>
     <p class="role">Postdoc</p>
   </div>
@@ -99,15 +98,13 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
   </div>
 
   <div class="group-member">
-    <img src="/assets/images/group/guimei-liu.jpg" alt="Guimei Liu"
-         onerror="this.src='/assets/images/group/guimei-liu.png'">
+    <img src="/assets/images/group/guimei-liu.jpg" alt="Guimei Liu">
     <p class="name">Guimei Liu</p>
     <p class="role">PhD student</p>
   </div>
 
    <div class="group-member">
-    <img src="/assets/images/group/nora-wagner.jpg" alt="Nora Wagner"
-         onerror="this.src='/assets/images/group/nora-wagner.png'">
+    <img src="/assets/images/group/nora-wagner.jpg" alt="Nora Wagner">
     <p class="name">Nora Wagner</p>
     <p class="role">PhD student</p>
   </div> 
