@@ -92,12 +92,6 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
   </div>
 
   <div class="group-member">
-    <img src="/assets/images/group/zhetai-cao.png" alt="Zhetai Cao">
-    <p class="name">Zhetai Cao</p>
-    <p class="role">PhD student</p>
-  </div>
-
-  <div class="group-member">
     <img src="/assets/images/group/lilly-kormann.jpg" alt="Lilly Kormann"
          onerror="this.src='/assets/images/group/lilly-kormann.png'">
     <p class="name">Lilly Kormann</p>
@@ -127,6 +121,12 @@ Our group at the Department of Astrophysics in Vienna combines observers, theori
 
 <!-- Former group members and their current positions will be listed here. -->
 <div class="group-grid">
+
+  <div class="group-member">
+    <img src="/assets/images/group/zhetai-cao.png" alt="Zhetai Cao">
+    <p class="name">Zhetai Cao</p>
+    <p class="role">PhD student</p>
+  </div>
 
  <div class="group-member">
     <img src="/assets/images/group/laura-posch.jpg" alt="Laura Posch"
